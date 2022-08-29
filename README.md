@@ -1,2 +1,2 @@
-# K-t-phane-Otomasyonu
+# Kutuphane-Otomasyonu
 PHP
